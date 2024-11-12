@@ -1,3 +1,0 @@
-circle,blue,spot circle,green,solid triangle,red,stripe
-square,blue,solid circle,green,spot tirnalge,red,stripe
-triange,green,stripe triangle,green,stripe, triangle,green,solid
